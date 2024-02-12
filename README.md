@@ -2,7 +2,7 @@
 This project has been conducted during the 2 weeks project of Coding Weeks during the First year at CentraleSupélec in Fall 2021. The first week was meant to teach us how to play with the Twitter API as well as the good practices in term of clean code and version management tool like github. The second week
 
 # Disclaimer
-In this current state, the Project doesn't work anymore as it lacks the PM folder which contains crucial code. In addition, credentials to collect tweets are probably not valid anymore. Therefore, please watch the video for a demo of the MVP working. 
+In this current state, the Project doesn't work anymore as it lacks the PM folder which contains crucial code. In addition, credentials of the Tweeter Developper account to collect tweets are probably not valid anymore. Therefore, please watch the video for a demo of the MVP working: Twitter_Insult_Detector_Video
 
 # CSA (CentraleSupélec Autocensure)
 
